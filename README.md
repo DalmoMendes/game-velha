@@ -1,7 +1,7 @@
 # game-velha
 Joguinho da velha, personalizado com efeitos sonoros desenvolvido com html, css e js.
 <h2>Tela Gema-Velha</h2>
-<imag src="XXX">
+<img src="https://github.com/DalmoMendes/game-velha/blob/master/image/screen-game-velha.png">
 
 # :rocket: ceproirr 
 <p>by Dalmo Mendes - dalmosilvamendens@gmail.com</p>
